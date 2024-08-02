@@ -40,7 +40,7 @@
             "src": "./img/icons/Mobile1.png",
             "sizes": "540x720",
             "type": "image/png",
-            "form_factor": "narow"
+            "form_factor": "narrow"
             }
  ],
     "start_url": "/-?fullscreen=true",
