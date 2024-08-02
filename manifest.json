@@ -29,7 +29,7 @@
     "screenshots": [    
         {
 
-            "src": "./img/icons/android-chrome-512x512.png",
+            "src": "./img/icons/test.png",
             "sizes": "640x320",
             "type": "image/png",
             "form_factor": "wide",
