@@ -37,11 +37,10 @@
             },
                 {
 
-            "src": "./img/icons/test.png",
-            "sizes": "640x320",
+            "src": "./img/icons/Mobile(1).png",
+            "sizes": "540x720",
             "type": "image/png",
             "form_factor": "narow",
-            "label": "Application"
             }
  ],
     "start_url": "/-?fullscreen=true",
